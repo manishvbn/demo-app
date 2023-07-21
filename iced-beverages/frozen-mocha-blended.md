@@ -29,6 +29,3 @@
 
 - Serve It in a Long Glass.
 
-### Step 5
-
-- Just for Check.
