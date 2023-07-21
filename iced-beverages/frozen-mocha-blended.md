@@ -27,4 +27,8 @@
 
 ### Step 4
 
-- Server It in Long Glass.
+- Serve It in a Long Glass.
+
+### Step 5
+
+- Just for Check.
